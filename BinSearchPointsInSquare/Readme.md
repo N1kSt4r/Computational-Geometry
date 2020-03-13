@@ -6,3 +6,4 @@
 ```math
 SE = \frac{\sigma}{\sqrt{n}}
 ```
+![](https://latex.codecogs.com/svg.latex?y_[x^2])
