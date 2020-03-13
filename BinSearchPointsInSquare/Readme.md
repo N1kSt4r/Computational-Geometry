@@ -3,6 +3,6 @@
 # Алгоритм
 Выполняется предобработка за $$O(n^2)$$, где плоскость разбивается на прямоугольники с координатами ((0, 0), ($`x_i`$, $`y_i`$)), где $`x_i, y_i`$ - координаты точки $`p_(i)`$, в которых мы считаем количество точек
 
-<script type="text/javascript" async
-
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
